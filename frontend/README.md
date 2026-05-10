@@ -1,4 +1,4 @@
-# Frontend Module
+Updated Sprint 4 frontend improvements and wireframe documentation# Frontend Module
 
 ## Overview
 The frontend module focuses on building a responsive and user-friendly interface for the Edulynx platform. Sprint 4 frontend work includes improving frontend navigation, wireframes, responsiveness, and search functionality.
