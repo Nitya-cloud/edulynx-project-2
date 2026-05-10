@@ -1,4 +1,4 @@
-# AI Module
+Improved AI feature documentation and chatbot enhancement notes# AI Module
 
 ## Overview
 The AI module contains intelligent educational support features including chatbot improvements, AI recommendations, and student learning assistance tools.
