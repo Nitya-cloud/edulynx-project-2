@@ -1,4 +1,4 @@
-# Deployment Research
+Added deployment compatibility evaluation for Edulynx# Deployment Research
 
 ## Overview
 This module contains deployment planning and infrastructure research for Edulynx. Sprint 4 focuses on identifying suitable deployment platforms and evaluating compatibility requirements.
