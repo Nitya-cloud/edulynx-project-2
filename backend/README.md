@@ -1,4 +1,4 @@
-# Backend Module
+Added backend optimization and API integration documentation# Backend Module
 
 ## Overview
 The backend module handles server-side logic, APIs, authentication, and database interactions for Edulynx. Sprint 4 backend work focuses on backend optimization and API integration.
